@@ -28,9 +28,16 @@ github_username:  code4lala
 
 # Build settings
 markdown: kramdown
+
 theme: minima
+
 plugins:
   - jekyll-feed
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
