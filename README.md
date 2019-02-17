@@ -1,6 +1,6 @@
 ## 欢迎光临code4lala的博客！
 
-<code4lala.github.io>
+<https://code4lala.github.io>
 
 搭建于2019年2月
 
