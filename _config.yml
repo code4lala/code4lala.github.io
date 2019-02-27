@@ -1,3 +1,14 @@
+# Where things are
+source:       .
+destination:  ./_site
+plugins_dir:  _plugins
+layouts_dir:  _layouts
+data_dir:     _data
+includes_dir: _includes
+collections:
+  posts:
+    output:   true
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
