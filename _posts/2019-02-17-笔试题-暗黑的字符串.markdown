@@ -7,7 +7,7 @@ lang: zh
 ---
 
 <!--引用数学表达式js脚本-->
-<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script src="https://cdn.bootcss.com/mathjax/2.7.5/MathJax.js"></script>
 
 `原创文章`
 
