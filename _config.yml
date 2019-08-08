@@ -50,6 +50,9 @@ kramdown:
     block:
       line_numbers: true
 
+# 去掉post末尾的.html
+permalink: pretty
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
