@@ -2,7 +2,7 @@
 layout: post
 title:  "电话面试 腾讯"
 date:   2019-02-26 17:46:47 +0800
-categories: 面试 电话面试 腾讯 总结 ios岗 原创
+tags: 面试 电话面试 腾讯 总结 ios岗 原创
 lang: zh
 ---
 

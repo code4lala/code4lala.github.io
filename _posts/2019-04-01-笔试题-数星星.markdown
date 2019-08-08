@@ -2,7 +2,7 @@
 layout: post
 title:  "数星星 2018春招真题 360"
 date:   2019-04-01 08:43:39 +0800
-categories: 360 笔试题 校招真题
+tags: 360 笔试题 校招真题
 lang: zh
 ---
 

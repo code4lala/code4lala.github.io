@@ -2,7 +2,7 @@
 layout: post
 title:  "餐馆 2017校招真题 滴滴"
 date:   2019-02-19 13:59:07 +0800
-categories: 滴滴 笔试题 校招真题 原创
+tags: 滴滴 笔试题 校招真题 原创
 lang: zh
 ---
 

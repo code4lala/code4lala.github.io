@@ -2,7 +2,7 @@
 layout: post
 title:  " 山石网科面试&清华游玩"
 date:   2019-03-15 22:17:20 +0800
-categories: 面试 旅行
+tags: 面试 旅行
 lang: zh
 ---
 

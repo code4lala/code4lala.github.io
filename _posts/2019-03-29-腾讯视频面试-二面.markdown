@@ -2,7 +2,7 @@
 layout: post
 title:  "腾讯视频面试-二面"
 date:   2019-03-29 07:30:51 +0800
-categories: 腾讯视频面试 二面
+tags: 腾讯视频面试 二面
 lang: zh
 ---
 
