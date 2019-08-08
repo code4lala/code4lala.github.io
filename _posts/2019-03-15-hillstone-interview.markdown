@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  " 山石网科面试&清华游玩"
+title:  " 山石网科面试"
 date:   2019-03-15 22:17:20 +0800
-tags: 面试 旅行
+tags: 面试
 lang: zh
 ---
 
@@ -230,8 +230,4 @@ void loop(int* array, int index, bool *b) {
 }
 {% endhighlight %}
 
-面试完找内推我的学长吃饭。
 
-靓照一张~
-
-（额，电脑或者手机好像出了点问题，手机插电脑上显示不出来了，adb也不行，照片拷不来，有时间再整吧，睡觉了，都23:41了
