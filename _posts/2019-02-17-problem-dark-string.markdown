@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "暗黑的字符串 2017校招真题 网易"
 date:   2019-02-17 16:24:13 +0800
 tags: 网易 笔试题 校招真题 原创
@@ -7,7 +8,7 @@ lang: zh
 ---
 
 <!--引用数学表达式js脚本-->
-{% include mathjax.html %}
+{% include mathjax_support.html %}
 
 `原创文章`
 

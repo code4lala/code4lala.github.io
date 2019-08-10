@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "数星星 2018春招真题 360"
 date:   2019-04-01 08:43:39 +0800
 tags: 360 笔试题 校招真题
@@ -7,7 +8,7 @@ lang: zh
 ---
 
 <!--引用数学表达式js脚本-->
-{% include mathjax.html %}
+{% include mathjax_support.html %}
 
 `原创文章`
 

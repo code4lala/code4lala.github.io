@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "餐馆 2017校招真题 滴滴"
 date:   2019-02-19 13:59:07 +0800
 tags: 滴滴 笔试题 校招真题 原创
@@ -7,7 +8,7 @@ lang: zh
 ---
 
 <!--引用数学表达式js脚本-->
-{% include mathjax.html %}
+{% include mathjax_support.html %}
 
 `原创文章`
 

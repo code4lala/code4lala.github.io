@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  " 山石网科面试"
 date:   2019-03-15 22:17:20 +0800
 tags: 面试
@@ -7,7 +8,7 @@ lang: zh
 ---
 
 <!--引用数学表达式js脚本-->
-{% include mathjax.html %}
+{% include mathjax_support.html %}
 
 `原创文章`
 

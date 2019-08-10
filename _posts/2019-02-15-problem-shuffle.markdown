@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "洗牌 2017校招真题 网易"
 date:   2019-02-15 10:28:49 +0800
 tags: 网易 笔试题 校招真题 原创

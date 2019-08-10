@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "电话面试 腾讯"
 date:   2019-02-26 17:46:47 +0800
 tags: 面试 电话面试 腾讯 总结 ios岗 原创
@@ -7,7 +8,7 @@ lang: zh
 ---
 
 <!--引用数学表达式js脚本-->
-{% include mathjax.html %}
+{% include mathjax_support.html %}
 
 `原创文章`
 

@@ -1,10 +1,6 @@
-## 欢迎光临code4lala的博客！
+# [code4lala blog](http://code4lala.vip)
+Welcome to code4lala blog!
 
-<https://code4lala.github.io>
+### Thanks
+Template copied from [Hux Blog](https://github.com/Huxpro/huxpro.github.io/), 
 
-搭建于2019年2月
-
-联系方式：
-
-<fenglala@outlook.com>
-<littletteng@gmail.com>

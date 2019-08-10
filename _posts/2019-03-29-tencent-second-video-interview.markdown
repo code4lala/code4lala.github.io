@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "腾讯视频面试-二面"
 date:   2019-03-29 07:30:51 +0800
 tags: 腾讯视频面试 二面
@@ -7,7 +8,7 @@ lang: zh
 ---
 
 <!--引用数学表达式js脚本-->
-{% include mathjax.html %}
+{% include mathjax_support.html %}
 
 `文章是自个写的但是思路不是自个的`
 

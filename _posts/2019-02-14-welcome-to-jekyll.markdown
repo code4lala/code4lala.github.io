@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Welcome to Jekyll!"
 date:   2019-02-14 15:59:49 +0800
 tags: jekyll update

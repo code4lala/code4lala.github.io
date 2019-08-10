@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "腾讯视频面试 一面"
 date:   2019-03-27 16:57:36 +0800
 tags: 腾讯 视频面试 面试 原创
