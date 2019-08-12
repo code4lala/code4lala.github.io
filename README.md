@@ -1,6 +1,5 @@
 # [code4lala blog](http://code4lala.vip)
-Welcome to code4lala blog!
+欢迎光临code4lala的博客!
 
-### Thanks
-Template copied from [Hux Blog](https://github.com/Huxpro/huxpro.github.io/), 
-
+### 感谢
+模板从[Hux Blog](https://github.com/Huxpro/huxpro.github.io/)那里复制的，感谢！
