@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "更换jekyll模板 解决找不到Gemfile"
 date:   2019-08-12 14:22:24 +0800
-tags: jekyll Gemfile
+tags: jekyll Gemfile 原创
 lang: zh
 ---
 
