@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "电话面试 腾讯"
 date:   2019-02-26 17:46:47 +0800
-tags: 面试 电话面试 腾讯 总结 ios岗 原创
+tags: 面试 电话面试 腾讯 原创
 lang: zh
 ---
 
@@ -134,6 +134,3 @@ lang: zh
 + [视频传输传输层用的到底是tcp还是udp](https://segmentfault.com/q/1010000004953614/a-1020000004953685)
 + [网络视频和电视用的是TCP还是UDP？](https://bbs.csdn.net/topics/390539011)
 
-`ping`和`icmp`
-
-待补充
