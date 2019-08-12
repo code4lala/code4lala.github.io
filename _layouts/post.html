@@ -9,6 +9,9 @@ layout: default
 <!-- Post Header -->
 {% include intro-header.html type='post' %}
 
+<!-- Clickable Image -->
+<link rel="stylesheet" href="{{ "/css/clickable-image.css" | prepend: site.baseurl }}">
+
 <!-- Post Content -->
 <article>
     <div class="container">
@@ -99,6 +102,9 @@ layout: default
         </div>
     </div>
 </article>
+
+<!-- copy from https://blog.walterlv.com/post/create-click-to-zoom-image-for-web-pages.html -->
+{% include clickable-image.html %}
 
 <!-- add support for mathjax by voleking-->
 {% if page.mathjax %}
