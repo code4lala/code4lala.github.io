@@ -17,7 +17,7 @@ lang: zh
 > (完全没什么用瞎折腾系列)
 
 ## 代码
-{% highlight cpp %}
+``` cpp
 #include <iostream>
 #include <stdint.h>
 #if UINTPTR_MAX == 0xffffffff
@@ -77,15 +77,14 @@ int main() {
 	pF(); // call private static void A::j(void)
 	return 0;
 }
-
-{% endhighlight %}
+```
 
 ## 输出
-{% highlight cpp %}
+```
 Hello A::i()
 Hello A::g()
 Hello A::j()
-{% endhighlight %}
+```
 
 ## 解析
 
