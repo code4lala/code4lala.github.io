@@ -21,7 +21,6 @@ facebook_username:  code4lala
 #linkedin_username:  firstname-lastname-idxxxx
 
 
-
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
@@ -33,13 +32,11 @@ anchorjs: true                          # if you want to customize anchor. check
 #timezone: CN  
 
 
-
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
 # make sure you have this gem installed
 # `$ gem install jekyll-paginate`
 plugins: [jekyll-paginate]
-
 
 
 # Markdown settings
@@ -57,7 +54,6 @@ kramdown:
       start_line: 1
 
 
-
 # Disqus settings
 disqus_username: code4lala-vip
 
@@ -66,22 +62,10 @@ disqus_username: code4lala-vip
 netease_comment: false
 
 
-
-# Analytics settings
-# Baidu Analytics 
-# ba_track_id: [your track id]
-
-# Google Analytics
-ga_track_id: 'UA-145388399-1'            # Format: UA-xxxxxx-xx
-ga_domain: code4lala.vip
-
-
-
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "下定决心想要的<br>就勇敢地去追吧"
 sidebar-avatar: /img/avatar-code4lala.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
-
 
 
 # Featured Tags
@@ -89,16 +73,13 @@ featured-tags: true                     # whether or not using Feature-Tags
 featured-condition-size: 3              # A tag will be featured if the size of it is more than this condition value
 
 
-
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
 
-
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
-
 
 
 # Friends
