@@ -57,10 +57,6 @@ kramdown:
 # Disqus settings
 disqus_username: code4lala-vip
 
-# 这个网易评论是啥???
-# Netease settings
-netease_comment: false
-
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
