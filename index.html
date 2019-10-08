@@ -23,7 +23,7 @@ description: "好好学习 不要放弃"
         </div>
     </a>
     <p class="post-meta">
-        Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
+		{% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}发布于{{ post.date | date: "%Y/%m/%d %H:%M" }}
     </p>
 </div>
 <hr>
