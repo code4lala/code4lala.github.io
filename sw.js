@@ -23,7 +23,6 @@ const PRECACHE_LIST = [
   "./img/avatar-code4lala.jpg",
   "./img/home-bg.jpg",
   "./img/404-bg.jpg",
-  "./css/hux-blog.min.css",
   "./css/bootstrap.min.css",
   "./css/clickable-image.css"
   // "//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css",
