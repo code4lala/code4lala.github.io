@@ -87,7 +87,7 @@ cat /etc/network/interfaces
 - [https://opensource.com/article/19/1/basic-live-video-streaming-server](https://opensource.com/article/19/1/basic-live-video-streaming-server)
 ## 开启rtmp模块 配置nginx.conf
 路径`/etc/nginx/nginx.conf`
-``` php
+``` bash
 http {
     ... # rtmp需要和http同级
 }
@@ -214,7 +214,7 @@ server {
 ## 127网站php认证脚本
 接着填充127网站的`rtmp_auth.php`。参考教程
 - [https://smartshitter.com/musings/2018/06/nginx-rtmp-streaming-with-slightly-improved-authentication/](https://smartshitter.com/musings/2018/06/nginx-rtmp-streaming-with-slightly-improved-authentication/)
-``` php
+``` bash
 <?php
 # 推流地址
 # rtmp://live.code4lala.vip/stream/
