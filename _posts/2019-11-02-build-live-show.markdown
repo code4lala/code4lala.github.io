@@ -82,11 +82,13 @@ echo "iptables ok";
 iptables -L -n
 cat /etc/network/interfaces
 ```
+
 ## 安装nginx和rtmp模块
 参考教程
 - [https://opensource.com/article/19/1/basic-live-video-streaming-server](https://opensource.com/article/19/1/basic-live-video-streaming-server)
 ## 开启rtmp模块 配置nginx.conf
 路径`/etc/nginx/nginx.conf`
+
 ``` bash
 http {
     ... # rtmp需要和http同级
@@ -114,16 +116,20 @@ rtmp {
   }
 }
 ```
+
 完事重启`nginx`，命令
+
 ``` bash
 sudo service nginx restart|reload|status
 ```
+
 如果配置文件有误，执行status查看状态能看到哪个配置文件的哪一行有误。
 
 上边加了一个身份认证，所以要配置身份认证的服务器(前提需要保证php脚本能跑)
 
 ## 配置127网站和直播网站
 配置文件`/etc/nginx/sites-available/default`，我所有的网站全都放到这一个配置文件里边了，所以就改这一个就行。
+
 ``` bash
 # Default server configuration
 #
@@ -211,10 +217,12 @@ server {
     ssl_certificate_key /etc/letsencrypt/live/cloud.code4lala.vip/privkey.pem; # managed by Certbot
 }
 ```
+
 ## 127网站php认证脚本
 接着填充127网站的`rtmp_auth.php`。参考教程
 - [https://smartshitter.com/musings/2018/06/nginx-rtmp-streaming-with-slightly-improved-authentication/](https://smartshitter.com/musings/2018/06/nginx-rtmp-streaming-with-slightly-improved-authentication/)
-``` bash
+
+``` php
 <?php
 # 推流地址
 # rtmp://live.code4lala.vip/stream/
@@ -232,6 +240,7 @@ if ($username == "" | $password == "") {
 }
 ?>
 ```
+
 注意这个php脚本虽然是在127网站，仅本机可访问，但它还是通过rtmp暴露在了外部，而且这个php脚本没有任何的安全防护，后续会做一些安全措施，请参见[https://github.com/code4lala/live.code4lala.vip](https://github.com/code4lala/live.code4lala.vip)，写文章时安全措施还没搞完。
 
 ## 直播主站html
@@ -268,8 +277,10 @@ if ($username == "" | $password == "") {
 
 # 客户端
 OBS的推流地址，那个域名用ip也完全可以，毕竟也没有真的对应这个网站
+
 ``` bash
 rtmp://live.code4lala.vip/stream/
 ?name=lala&psk=your_password_used_in_obs
 ```
+
 看直播就打开网站就可以喽
