@@ -115,7 +115,7 @@ rtmp {
 }
 ```
 完事重启`nginx`，命令
-```
+``` bash
 sudo service nginx restart|reload|status
 ```
 如果配置文件有误，执行status查看状态能看到哪个配置文件的哪一行有误。
@@ -268,7 +268,7 @@ if ($username == "" | $password == "") {
 
 # 客户端
 OBS的推流地址，那个域名用ip也完全可以，毕竟也没有真的对应这个网站
-```
+``` bash
 rtmp://live.code4lala.vip/stream/
 ?name=lala&psk=your_password_used_in_obs
 ```
