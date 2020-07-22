@@ -31,3 +31,6 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # 前边都是自动生成的，最后这行是自己新增的
 gem "jekyll-paginate"
+
+# Jekyll Sitemap Generator Plugin
+gem 'jekyll-sitemap'
