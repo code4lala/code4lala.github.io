@@ -9,13 +9,13 @@ lang: zh
 
 `原创`
 
-看到 https://www.youtube.com/watch?v=zzHeG7l6FT8 《【東方ボーカルMV】東方言えるかな》里有非常多漂亮的角色（我全都要），觉得很适合拿来做壁纸用，但是又有一些没有画面的场景，可以剪掉来提升观感。
+看到 [https://www.youtube.com/watch?v=zzHeG7l6FT8](https://www.youtube.com/watch?v=zzHeG7l6FT8) 《【東方ボーカルMV】東方言えるかな》里有非常多漂亮的角色（我全都要），觉得很适合拿来做壁纸用，但是又有一些没有画面的场景，可以剪掉来提升观感。
 
 成品链接：
-https://steamcommunity.com/sharedfiles/filedetails/?id=3659280460
+[https://steamcommunity.com/sharedfiles/filedetails/?id=3659280460](https://steamcommunity.com/sharedfiles/filedetails/?id=3659280460)
 
 在线观看：
-https://www.bilibili.com/video/BV1HGFLz8E1H
+[https://www.bilibili.com/video/BV1HGFLz8E1H](https://www.bilibili.com/video/BV1HGFLz8E1H)
 
 ### 步骤：
 
@@ -28,7 +28,7 @@ https://www.bilibili.com/video/BV1HGFLz8E1H
 ### 从youtube上下载视频和音频
 
 第一步这里使用  
-https://snapany.com/zh/youtube-1  
+[https://snapany.com/zh/youtube-1](https://snapany.com/zh/youtube-1)  
 直接解析youtube地址拿到googlevideo.com域名的链接来下载。  
 这里下载到的视频和音频是两个独立的文件。
 
